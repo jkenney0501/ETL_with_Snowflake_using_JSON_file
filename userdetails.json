@@ -1,0 +1,37 @@
+[
+    {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+    },
+    {
+        "userId": 2,
+        "firstName": "Racks",
+        "lastName": "Jackson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jackson@learningcontainer.com"
+    },
+    {
+        "userId": 3,
+        "firstName": "Denial",
+        "lastName": "Roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roaste@learningcontainer.com"
+    },
+    {
+        "userId": 4,
+        "firstName": "David",
+        "lastName": "Neo",
+        "phoneNumber": "22222222",
+        "emailAddress": "david.neoe@learningcontainer.com"
+    },
+    {
+        "userId": 5,
+        "firstName": "John",
+        "lastName": "Doe",
+        "phoneNumber": "5553339999",
+        "emailAddress": "john.doe@learningcontainer.com"
+    }
+]
